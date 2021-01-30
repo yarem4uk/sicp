@@ -1,21 +1,21 @@
 {
-  "name": "nodejs-template",
+  "name": "sicp",
   "version": "1.0.0",
-  "description": "template",
+  "description": "sicp",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yarem4uk/nodejs-packages.git"
+    "url": "git+https://github.com/yarem4uk/sicp.git"
   },
   "author": "Alex Yarem4uk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yarem4uk/nodejs-packages/issues"
   },
-  "homepage": "https://github.com/yarem4uk/nodejs-packages#readme",
+  "homepage": "https://github.com/yarem4uk/sicp#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
